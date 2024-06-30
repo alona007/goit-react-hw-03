@@ -1,0 +1,14 @@
+.appWrapper {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 32px;
+  margin-left: 16px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+}

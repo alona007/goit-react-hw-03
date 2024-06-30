@@ -1,0 +1,31 @@
+.itemWrapper {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contactWrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.icon {
+  margin-right: 8px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 6px;
+  font-size: 18px;
+  font-weight: 600;
+}

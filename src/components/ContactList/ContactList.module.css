@@ -1,0 +1,12 @@
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.item {
+  width: 280px;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 8px;
+}
